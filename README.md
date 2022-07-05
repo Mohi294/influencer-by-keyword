@@ -37,6 +37,9 @@ g.add_weighted_edges_from(relations)
 pr = nx.pagerank(g)
 ```
 
+# Notes
+you can use this code for finding influencers for a special keyword(i.e. hashtag) if you can get users associated with that keyword from database; the rest is the same.
+
 # Requirements
 Python 3.8+ is required. The following packages are required:
 - [json](https://docs.python.org/3/library/json.html)
