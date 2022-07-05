@@ -1,4 +1,4 @@
-# influencer-by-keyword
+# social media influencer
 this code finds influencers based on some keywords and some experimental pointings that is calculateed based on number of likes, followers, followings, etc. of users and then by ```networkx``` package and ```DiGraph``` gets pagerank of each user and gives it back to database.
 
 The documentations of main packages are available in following links:
@@ -42,5 +42,11 @@ Python 3.8+ is required. The following packages are required:
 - [json](https://docs.python.org/3/library/json.html)
 - [request](https://requests.readthedocs.io/) (for elastic database)
 - [networkx](https://networkx.org/documentation/stable/index.html)
+
+# important links
+- Documentation: 
+- Source code:
+- Issue tracker:
+
 
 
