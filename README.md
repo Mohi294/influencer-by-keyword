@@ -10,7 +10,7 @@ calculating each user's threshold(or points):
 
 ```python
  ter = (50 * retweets + followers + 100 * followers / followings + comments + likes) / 100
-    likes_avg = query2['aggregations']['likes_average']['value']
+ 
 ```
 
 getting users that have more than 100 threshold and using some directed weighted graph to achieve pageranks of each users:
