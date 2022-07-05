@@ -44,9 +44,12 @@ Python 3.8+ is required. The following packages are required:
 - [networkx](https://networkx.org/documentation/stable/index.html)
 
 # important links
-- Documentation: 
-- Source code:
-- Issue tracker:
+- Documentation: https://networkx.org/documentation/networkx-1.9/
+- Source code: https://github.com/Mohi294/social-media-influencer/
+- Issue tracker: https://github.com/Mohi294/social-media-influencer/issues/
+
+# License
+NetworkX is a Python library for studying graphs and networks. NetworkX is free software released under the BSD-new license.
 
 
 
